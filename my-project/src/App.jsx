@@ -1,8 +1,8 @@
 import React from 'react';
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import LoginPage from "./components/LoginPage";
-import Onebox from "./components/Onebox";
+import LoginPage from "./Pages/Login";
+import Onebox from "./Pages/OneBox";
 function App() {
   return (
     <Router>
