@@ -37,11 +37,14 @@ Ensure you have the following installed on your system:
    cd <repository-directory>
 
 2. **Install dependencies**:
+
    ```bash
    npm install
-3.**To start the development server**:
+3. **To start the development server**:
    ```bash
-    npm run dev
+   npm run dev
 4.**To build the app for production**:
-     ```bash
-      npm run build
+   ```bash
+     npm run build
+
+
