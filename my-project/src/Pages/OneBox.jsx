@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import SubView from "../components/SubView";
+import SubView from "../components/Subview";
 import MainPage from "../components/MainPage";
 import SideBar from "../components/SideBar";
 import TopBar from "../components/TopBar";
